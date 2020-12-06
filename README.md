@@ -13,14 +13,21 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=brycatch.brycatch)
 
 <br />
+<br />
 
 Hi, I'm [Bryan Sanchez](https://brycatch.me), a Back end Developer from Monterrey, Mexico. I have some projects like [AniDoom](https://anidoom.com) and [Pichico](https://pichico.mx) where I'm work 24/7 in their growth. Also, I'm a student in [Platzi Master](https://platzi.com/blog/que-es-platzi-master/) where I work with people doing intensive projects like [P-maker](http://p-maker.vercel.app/).
+
+<br />
+<br />
 
 **What am I doing right now?:**
 
 - 💻 I’m work in [Prolec](http://prolecge.com/es/) as a development engineer.
 - 🌱 I’m currently learning C++ and improve in C# and Node.js. 
 - 📕 In Platzi Master, I'm work improve soft skills, creating amazing projects and collaborate with beautiful people. 
+
+<br />
+<br />
 
 **Languages and Tools:**  
 
@@ -35,6 +42,8 @@ Hi, I'm [Bryan Sanchez](https://brycatch.me), a Back end Developer from Monterre
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<br />
+<br />
 
 📈 My GitHub Stats
 
