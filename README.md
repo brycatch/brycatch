@@ -20,7 +20,7 @@ Hi, I'm [Bryan Sanchez](https://brycatch.me), a Back end Developer from Monterre
 
 **What am I doing right now?:**
 
-- 💻 I’m work in [Prolec](http://prolecge.com/es/) as a development engineer.
+- 💻 I’m work in [Flink](https://miflink.com/) as a software engineer.
 - 🌱 I’m currently learning C++ and improve in C# and Node.js. 
 - 📕 In Platzi Master, I'm work improve soft skills, creating amazing projects and collaborate with beautiful people. 
 
